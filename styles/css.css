@@ -1,0 +1,88 @@
+
+.center_t
+{
+  text-align: center;
+}
+
+body
+{
+  overflow-x: hidden;
+}
+.size_of_icon
+{
+  width: 200px;
+  height: 200px;
+}
+
+.vert
+{
+  width: 500px;
+  transform: rotate(-90deg);
+  background-color: black;
+  position: fixed;
+}
+
+.sdvig1
+{
+  margin-left: 17%;
+}
+
+.sdvig2
+{
+  margin-left: 50%;
+}
+
+tr
+{
+  margin-left: auto;
+    margin-right: auto;
+    width: 6em
+}
+td
+{
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+table
+{
+  border: 2px solid #845ec2;
+  border-collapse: collapse;
+}
+#podpiski{
+  position: relative;
+  justify-content:space-between;
+}
+
+.text
+{
+
+text-align: center;
+}
+.pad
+{
+  padding-top:20px;
+}
+.kl
+{
+  background-image: linear-gradient(45deg, #654ea3, #eaafc8);
+  display: flex;
+  justify-content: space-between;
+}
+.line{
+  width: 30px;
+  height: 3px;
+  background-color: orange;
+}
+
+.razmer
+{
+  width: 50px;
+  height: 50px;
+}
+
+.razmer1
+{
+  width: 58px;
+  height: 58px;
+}

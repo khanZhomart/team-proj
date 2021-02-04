@@ -1,0 +1,43 @@
+
+body{
+margin:0 auto;
+font-family: 'Fraunces', serif;
+font-size: 14px;
+
+-webkit-font-smoothing:antialiased;
+
+}
+
+.carousel {
+  height: 600px;
+  width:500;
+}
+.carousel-inner img {
+	width:500;
+  height: 600px;
+ 
+}
+.carousel-indicators li {
+  border-color: #000;
+}
+.carousel-indicators .active {
+  background-color: white;
+}
+.intro{
+	height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+   padding-top:100px;
+     background-image: url("back.jpg");
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-position: center;
+}
+.ab2 {
+    
+    overflow: hidden;
+    font-family: 'Kaushan Script', cursive;
+    text-align: center;
+    font-size: 30px;
+}

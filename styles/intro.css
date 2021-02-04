@@ -1,0 +1,122 @@
+body {
+    overflow-x: hidden;
+}
+
+#intro {
+    width: 100%;
+    height: 750px;
+    position: relative;
+    background-color: #845ec2;
+}
+
+.part1-content {
+    padding-top: 10px;
+    padding-left: 35px;
+}
+
+.navbar-brand {
+    font-size: 40px !important;
+    font-family: 'Lato';
+}
+
+.nav-item {
+    font-size: 25px;
+    margin-top: 8px;
+}
+
+.intro-text {
+    position: relative;
+    top: 150px;
+    left: 150px;
+}
+
+.btn {
+    position: relative;
+    bottom: 40px;
+    left: 3px;
+}
+
+.apple-icon {
+    position: relative;
+    bottom: 4px;
+    width: 20px;
+    height: auto;
+}
+
+.plm-icon {
+    position: relative;
+    bottom: 4px;
+    width: 20px;
+    height: auto;
+
+    filter: brightness(85%);
+}
+
+.dropdown {
+    position: relative;
+    top: 20px;
+}
+
+.bookw {
+    font-family: 'Lato';
+    font-weight: 900;
+    font-size: 98px;
+    color: white;
+}
+
+.bookw-slogan {
+    font-family: 'Lato';
+    font-weight: 700;
+    font-size: 30px;
+    color: white;
+
+    position: relative;
+    left: 3px;
+    bottom: 40px;
+}
+
+.devices {
+    position: relative;
+    left: 400px;
+}
+
+.iphone {
+    width: 160px;
+    height: auto;
+
+    position: relative;
+    left: 380px;
+    bottom: 270px;
+
+    transform: rotate(20deg);
+}
+
+.macbook {
+    width: 500px;
+    height: auto;
+    bottom: 50px;
+
+    transform: rotate(-10deg);
+}
+
+.android {
+    width: 90px;
+    height: auto;
+
+    position: relative;
+    left: 340px;
+    bottom: 320px;
+
+    transform:rotate(-20deg);
+}
+
+.ipad {
+    width: 400px;
+    height: auto;
+
+    position: relative;
+    right: 100px;
+    bottom: 130px;
+
+    transform: rotate(45deg);
+}
